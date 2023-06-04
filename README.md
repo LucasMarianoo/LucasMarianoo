@@ -20,8 +20,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/lucas-mariano1991/">Lucas Mariano</a>
   </h1>
   
-  <p align="left">
-    
+  <p align="left">    
     Estudo Analise e Desenvolvimento de Sistemas na FATEC.
   <p align="left">
     Aqui desejo compartilhar o progresso e os resultados do meu aprendizado na área da programação. 🦾
