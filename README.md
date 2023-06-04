@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasMarianoo&color=yellow" alt="Profile views" /> </p> <br>
 <div>
   
   <h1 align="left">
