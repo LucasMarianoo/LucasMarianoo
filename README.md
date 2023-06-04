@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 
 <div>
   
-  <h1 align="center">
+  <h1 align="right">
     Olá, me chamo 
     <a href="https://www.linkedin.com/in/lucas-mariano1991/">Lucas Mariano</a>
   </h1>
   
-  <p align="center">
+  <p align="right">
     Estudo Analise e Desenvolvimento de Sistemas na FATEC.
-  <p align="center">
+  <p align="right">
     Aqui desejo compartilhar o progresso e os resultados do meu aprendizado na área da programação. 🦾
   
 </div>
 
-<div align="center" valign="top"><br>
+<div align="right" valign="top"><br>
   
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-<img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="right" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+<img align="right" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="right" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
 </div><br>
